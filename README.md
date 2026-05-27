@@ -1,4 +1,4 @@
-> **🚀 Download instantly:** [Get it on Gumroad](https://gumroad.com/l/nextjs-saas-starter-kit) | Star this repo for updates
+> **🚀 Download instantly:** [Get it on Gumroad](https://1285770837308.gumroad.com/l/nextjs-saas-starter-kit) | Star this repo for updates
 
 # SaaS Starter Kit
 
