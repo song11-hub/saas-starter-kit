@@ -1,3 +1,5 @@
+> **🚀 Download instantly:** [Get it on Gumroad](https://gumroad.com/l/nextjs-saas-starter-kit) | Star this repo for updates
+
 # SaaS Starter Kit
 
 Production-ready Next.js starter kit for building SaaS products. Authentication, payments, team management, and a beautiful dashboard — all wired up and ready to go.
